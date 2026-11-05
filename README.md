@@ -1,6 +1,4 @@
-# [Kopi Kount Website](https://kopi-kount.netlify.app)
-
-The Kopi Kount Promotional Business Website is a project done by [Salig] for their WEBTOOLS and WEBAPPS courses. [Kopi Kount - Palpitate Moderately](https://www.facebook.com/kopikountpalpitatemoderately) is a coffee shop located at East Rembo, Makati City. Kopi Kount aims to be your go-to coffee shop for all things caffeinated, with a goal to provide a warm and inviting atmosphere where you can relax, unwind, and enjoy a delicious cup of coffee, as well as pastries, sandwiches, and other light bites to satisfy your hunger.
+Kopi Kount is a coffee shop located at East Rembo, Makati City. Kopi Kount aims to be your go-to coffee shop for all things caffeinated, with a goal to provide a warm and inviting atmosphere where you can relax, unwind, and enjoy a delicious cup of coffee, as well as pastries, sandwiches, and other light bites to satisfy your hunger.
 
 The Kopi Kount website includes the following pages:
 
